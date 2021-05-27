@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mask</folder>
+	<filename>b76.jpg</filename>
+	<path>C:\Users\ltz\Documents\MLProject\Mask\b76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>26</ymin>
+			<xmax>585</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Umbrella</folder>
+	<filename>000111.jpg</filename>
+	<path>C:\Users\ltz\Documents\MLProject\Umbrella\000111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>umbrella</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>38</ymin>
+			<xmax>592</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>
